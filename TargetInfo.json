@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProject",
+			"Path": "A:\\Semester_4\\AVC\\Uebung_2\\Aufgabe_2\\Demo01\\Source\\MyProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProjectEditor",
+			"Path": "A:\\Semester_4\\AVC\\Uebung_2\\Aufgabe_2\\Demo01\\Source\\MyProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
